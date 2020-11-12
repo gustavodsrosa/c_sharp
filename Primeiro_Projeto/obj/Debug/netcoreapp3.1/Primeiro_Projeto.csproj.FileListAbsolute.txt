@@ -1,0 +1,13 @@
+C:\xampp\htdocs\programacao\c#\Console\Primeiro_Projeto\bin\Debug\netcoreapp3.1\Primeiro_Projeto.exe
+C:\xampp\htdocs\programacao\c#\Console\Primeiro_Projeto\bin\Debug\netcoreapp3.1\Primeiro_Projeto.deps.json
+C:\xampp\htdocs\programacao\c#\Console\Primeiro_Projeto\bin\Debug\netcoreapp3.1\Primeiro_Projeto.runtimeconfig.json
+C:\xampp\htdocs\programacao\c#\Console\Primeiro_Projeto\bin\Debug\netcoreapp3.1\Primeiro_Projeto.runtimeconfig.dev.json
+C:\xampp\htdocs\programacao\c#\Console\Primeiro_Projeto\bin\Debug\netcoreapp3.1\Primeiro_Projeto.dll
+C:\xampp\htdocs\programacao\c#\Console\Primeiro_Projeto\bin\Debug\netcoreapp3.1\Primeiro_Projeto.pdb
+C:\xampp\htdocs\programacao\c#\Console\Primeiro_Projeto\obj\Debug\netcoreapp3.1\Primeiro_Projeto.csprojAssemblyReference.cache
+C:\xampp\htdocs\programacao\c#\Console\Primeiro_Projeto\obj\Debug\netcoreapp3.1\Primeiro_Projeto.AssemblyInfoInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\Primeiro_Projeto\obj\Debug\netcoreapp3.1\Primeiro_Projeto.AssemblyInfo.cs
+C:\xampp\htdocs\programacao\c#\Console\Primeiro_Projeto\obj\Debug\netcoreapp3.1\Primeiro_Projeto.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\Primeiro_Projeto\obj\Debug\netcoreapp3.1\Primeiro_Projeto.dll
+C:\xampp\htdocs\programacao\c#\Console\Primeiro_Projeto\obj\Debug\netcoreapp3.1\Primeiro_Projeto.pdb
+C:\xampp\htdocs\programacao\c#\Console\Primeiro_Projeto\obj\Debug\netcoreapp3.1\Primeiro_Projeto.genruntimeconfig.cache

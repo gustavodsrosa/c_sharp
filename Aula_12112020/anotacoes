@@ -1,0 +1,5 @@
+Criar novo projeto para C#:
+
+-- No diretório, digitar no CMD ou Powershell:
+
+dotnet new console
