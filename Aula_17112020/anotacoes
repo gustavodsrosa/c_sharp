@@ -1,0 +1,7 @@
+For(Declaracão do contador; Condição de execução; Condicão de parâmetro(Pode ser incremental ou decremental))
+
+Pode ser resumido em:
+
+For(Início; Fim; Parâmetro);
+
+-- O código pode ser quebrado dentro do for.
