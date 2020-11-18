@@ -1,0 +1,3 @@
+Negação de valor inteiro:
+
+Ex.: if(!(nota == 10))
