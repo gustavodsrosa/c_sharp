@@ -18,27 +18,32 @@ namespace Aula_20112020
             d) Média geral dos 10 alunos
             */
 
-            string[] nomes = new string[10];
+            string[] nomes = new string[4];
             float[] nota1 = new float[4];
             float[] nota2 = new float[4];
             float[] nota3 = new float[4];
             float[] nota4 = new float[4];
             float[] media = new float[4];
 
-            for(var i = 0; i < 10; i++) {
-                Console.WriteLine("Digite o nome do aluno: ");
-                nomes[i] = Console.ReadLine();
-                Console.WriteLine("Digite a nota: ");
-                nota1[i] = float.Parse(Console.ReadLine());
-                Console.WriteLine("Digite a nota: ");
-                nota2[i] = float.Parse(Console.ReadLine());
-                Console.WriteLine("Digite a nota: ");
-                nota3[i] = float.Parse(Console.ReadLine());
-                Console.WriteLine("Digite a nota: ");
-                nota4[i] = float.Parse(Console.ReadLine());
+            
+            for(var c = 0; c <10; c++ ) {
+                for(var i = 0; i < 10; i++) {
+                    Console.WriteLine("Digite o nome do aluno: ");
+                    nomes[i] = Console.ReadLine();
+                    Console.WriteLine("Digite a nota: ");
+                    nota1[i] = float.Parse(Console.ReadLine());
+                    Console.WriteLine("Digite a nota: ");
+                    nota2[i] = float.Parse(Console.ReadLine());
+                    Console.WriteLine("Digite a nota: ");
+                    nota3[i] = float.Parse(Console.ReadLine());
+                    Console.WriteLine("Digite a nota: ");
+                    nota4[i] = float.Parse(Console.ReadLine());
 
-                media[i] = ((nota1[i] + nota2[i] + nota3[i] + nota4[i])/4 );
+                    media[i] = ((nota1[i] + nota2[i] + nota3[i] + nota4[i])/4 );
+                    Console.WriteLine(media[i]);
                 }
+            }
+            
             } 
         }
     }
