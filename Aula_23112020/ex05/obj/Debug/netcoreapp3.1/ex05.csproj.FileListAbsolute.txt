@@ -1,0 +1,13 @@
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex05\bin\Debug\netcoreapp3.1\ex05.exe
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex05\bin\Debug\netcoreapp3.1\ex05.deps.json
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex05\bin\Debug\netcoreapp3.1\ex05.runtimeconfig.json
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex05\bin\Debug\netcoreapp3.1\ex05.runtimeconfig.dev.json
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex05\bin\Debug\netcoreapp3.1\ex05.dll
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex05\bin\Debug\netcoreapp3.1\ex05.pdb
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex05\obj\Debug\netcoreapp3.1\ex05.csprojAssemblyReference.cache
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex05\obj\Debug\netcoreapp3.1\ex05.AssemblyInfoInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex05\obj\Debug\netcoreapp3.1\ex05.AssemblyInfo.cs
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex05\obj\Debug\netcoreapp3.1\ex05.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex05\obj\Debug\netcoreapp3.1\ex05.dll
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex05\obj\Debug\netcoreapp3.1\ex05.pdb
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex05\obj\Debug\netcoreapp3.1\ex05.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex02\obj\Debug\netcoreapp3.1\ex02.csprojAssemblyReference.cache
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex02\obj\Debug\netcoreapp3.1\ex02.AssemblyInfoInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex02\obj\Debug\netcoreapp3.1\ex02.AssemblyInfo.cs
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex02\obj\Debug\netcoreapp3.1\ex02.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex02\bin\Debug\netcoreapp3.1\ex02.exe
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex02\bin\Debug\netcoreapp3.1\ex02.deps.json
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex02\bin\Debug\netcoreapp3.1\ex02.runtimeconfig.json
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex02\bin\Debug\netcoreapp3.1\ex02.runtimeconfig.dev.json
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex02\bin\Debug\netcoreapp3.1\ex02.dll
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex02\bin\Debug\netcoreapp3.1\ex02.pdb
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex02\obj\Debug\netcoreapp3.1\ex02.dll
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex02\obj\Debug\netcoreapp3.1\ex02.pdb
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex02\obj\Debug\netcoreapp3.1\ex02.genruntimeconfig.cache

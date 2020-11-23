@@ -1,0 +1,13 @@
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex07\bin\Debug\netcoreapp3.1\ex07.exe
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex07\bin\Debug\netcoreapp3.1\ex07.deps.json
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex07\bin\Debug\netcoreapp3.1\ex07.runtimeconfig.json
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex07\bin\Debug\netcoreapp3.1\ex07.runtimeconfig.dev.json
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex07\bin\Debug\netcoreapp3.1\ex07.dll
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex07\bin\Debug\netcoreapp3.1\ex07.pdb
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex07\obj\Debug\netcoreapp3.1\ex07.csprojAssemblyReference.cache
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex07\obj\Debug\netcoreapp3.1\ex07.AssemblyInfoInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex07\obj\Debug\netcoreapp3.1\ex07.AssemblyInfo.cs
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex07\obj\Debug\netcoreapp3.1\ex07.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex07\obj\Debug\netcoreapp3.1\ex07.dll
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex07\obj\Debug\netcoreapp3.1\ex07.pdb
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex07\obj\Debug\netcoreapp3.1\ex07.genruntimeconfig.cache

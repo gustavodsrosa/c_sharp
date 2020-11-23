@@ -1,0 +1,13 @@
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex04\obj\Debug\netcoreapp3.1\ex04.csprojAssemblyReference.cache
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex04\obj\Debug\netcoreapp3.1\ex04.AssemblyInfoInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex04\obj\Debug\netcoreapp3.1\ex04.AssemblyInfo.cs
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex04\obj\Debug\netcoreapp3.1\ex04.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex04\bin\Debug\netcoreapp3.1\ex04.exe
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex04\bin\Debug\netcoreapp3.1\ex04.deps.json
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex04\bin\Debug\netcoreapp3.1\ex04.runtimeconfig.json
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex04\bin\Debug\netcoreapp3.1\ex04.runtimeconfig.dev.json
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex04\bin\Debug\netcoreapp3.1\ex04.dll
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex04\bin\Debug\netcoreapp3.1\ex04.pdb
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex04\obj\Debug\netcoreapp3.1\ex04.dll
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex04\obj\Debug\netcoreapp3.1\ex04.pdb
+C:\xampp\htdocs\programacao\c#\Console\Aula_23112020\ex04\obj\Debug\netcoreapp3.1\ex04.genruntimeconfig.cache
