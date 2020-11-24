@@ -23,6 +23,8 @@ namespace ex02
 
             var preco_alcool = 4.90;
             var preco_gasolina = 5.30;
+            var desconto_alc;
+            var desconto_gas;
 
             Console.WriteLine("Qtd litros: ");
             float qtd_litros = float.Parse(Console.ReadLine());
@@ -32,11 +34,21 @@ namespace ex02
 
             switch (tipo) {
                 case "A":
-                    var total = preco_alcool * qtd_litros;
-                    Console.WriteLine("Valor a pagar: " + total);
+                    if(qtd_litros <= 20) {
+                        desconto_alc = 0.03;
+                    } else {
+                        desconto_alc = 0.05;
+                    }
+                    var total_alcool = preco_gasolina * (qtd_litros * desconto_alc);
+                    Console.WriteLine("Valor a pagar: " + total_alcool);
                     break;
                 case "G":
-                    var total_gas = preco_gasolina * qtd_litros;
+                     if(qtd_litros <= 20) {
+                        desconto_gas = 0.04;
+                    } else {
+                        desconto_gas = 0.06;
+                    }
+                    var total_gas = preco_gasolina * (qtd_litros * desconto_gas);
                     Console.WriteLine("Valor a pagar: " + total_gas);
                     break;
                 default:
