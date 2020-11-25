@@ -34,6 +34,8 @@ namespace ex06
                     Console.WriteLine($"NÃO ACHEI NO ÍNDICE {i}");
                 }
             }
+
+            Console.WriteLine();
             
         }
     }

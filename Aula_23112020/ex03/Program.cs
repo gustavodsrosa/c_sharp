@@ -19,11 +19,17 @@ namespace ex03
             Console.WriteLine("Descrição do produto: ");
             string descricao = Console.ReadLine();
 
+            Console.WriteLine();
+
             Console.WriteLine("Quantidade: ");
             float qtd = float.Parse(Console.ReadLine());
 
+            Console.WriteLine();
+
             Console.WriteLine("Preço unitário: ");
             float pr_unitario = float.Parse(Console.ReadLine());
+
+            Console.WriteLine();
 
             if(qtd <= 5) {
                 var desconto = 0.02;

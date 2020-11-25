@@ -21,7 +21,7 @@ namespace ex02
             Dica: utilize switch case e funções/métodos para otimizar o algorítimo.
             */
 
-            var preco_alcool = 4.90;
+            var preco_alcool  = 4.90;
             var preco_gasolina = 5.30;
             float desconto_alc;
             float desconto_gas;

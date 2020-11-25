@@ -23,9 +23,10 @@ namespace ex07
             Array.Reverse(numeros);
             
             for(int i = 0; i < numeros.Length; i++) {
-                Console.WriteLine(numeros[i]);
-                
+                Console.WriteLine(numeros[i]); 
             }
+
+            Console.WriteLine();
 
     }
 }

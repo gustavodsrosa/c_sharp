@@ -27,6 +27,7 @@ namespace ex04
             }
 
             Console.WriteLine("Maior valor: " + maior);
+            Console.WriteLine();
             Console.WriteLine("Menor valor: " + menor);
         }
     }
