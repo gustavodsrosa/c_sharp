@@ -1,0 +1,13 @@
+C:\xampp\htdocs\programacao\c#\Console\ListaProdutos\obj\Debug\netcoreapp3.1\ListaProdutos.csprojAssemblyReference.cache
+C:\xampp\htdocs\programacao\c#\Console\ListaProdutos\obj\Debug\netcoreapp3.1\ListaProdutos.AssemblyInfoInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\ListaProdutos\obj\Debug\netcoreapp3.1\ListaProdutos.AssemblyInfo.cs
+C:\xampp\htdocs\programacao\c#\Console\ListaProdutos\obj\Debug\netcoreapp3.1\ListaProdutos.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\ListaProdutos\bin\Debug\netcoreapp3.1\ListaProdutos.exe
+C:\xampp\htdocs\programacao\c#\Console\ListaProdutos\bin\Debug\netcoreapp3.1\ListaProdutos.deps.json
+C:\xampp\htdocs\programacao\c#\Console\ListaProdutos\bin\Debug\netcoreapp3.1\ListaProdutos.runtimeconfig.json
+C:\xampp\htdocs\programacao\c#\Console\ListaProdutos\bin\Debug\netcoreapp3.1\ListaProdutos.runtimeconfig.dev.json
+C:\xampp\htdocs\programacao\c#\Console\ListaProdutos\bin\Debug\netcoreapp3.1\ListaProdutos.dll
+C:\xampp\htdocs\programacao\c#\Console\ListaProdutos\bin\Debug\netcoreapp3.1\ListaProdutos.pdb
+C:\xampp\htdocs\programacao\c#\Console\ListaProdutos\obj\Debug\netcoreapp3.1\ListaProdutos.dll
+C:\xampp\htdocs\programacao\c#\Console\ListaProdutos\obj\Debug\netcoreapp3.1\ListaProdutos.pdb
+C:\xampp\htdocs\programacao\c#\Console\ListaProdutos\obj\Debug\netcoreapp3.1\ListaProdutos.genruntimeconfig.cache

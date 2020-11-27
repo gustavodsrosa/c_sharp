@@ -98,7 +98,6 @@ namespace Aula_26112020
                 } else {
                     Console.WriteLine("Sua senha não foi aceita. Tente novamente");
                     return false;
-
                 }
             }
 
