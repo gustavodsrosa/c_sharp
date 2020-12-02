@@ -1,0 +1,13 @@
+C:\xampp\htdocs\programacao\c#\Console\Atividade_02122020\bin\Debug\netcoreapp3.1\Atividade_02122020.exe
+C:\xampp\htdocs\programacao\c#\Console\Atividade_02122020\bin\Debug\netcoreapp3.1\Atividade_02122020.deps.json
+C:\xampp\htdocs\programacao\c#\Console\Atividade_02122020\bin\Debug\netcoreapp3.1\Atividade_02122020.runtimeconfig.json
+C:\xampp\htdocs\programacao\c#\Console\Atividade_02122020\bin\Debug\netcoreapp3.1\Atividade_02122020.runtimeconfig.dev.json
+C:\xampp\htdocs\programacao\c#\Console\Atividade_02122020\bin\Debug\netcoreapp3.1\Atividade_02122020.dll
+C:\xampp\htdocs\programacao\c#\Console\Atividade_02122020\bin\Debug\netcoreapp3.1\Atividade_02122020.pdb
+C:\xampp\htdocs\programacao\c#\Console\Atividade_02122020\obj\Debug\netcoreapp3.1\Atividade_02122020.csprojAssemblyReference.cache
+C:\xampp\htdocs\programacao\c#\Console\Atividade_02122020\obj\Debug\netcoreapp3.1\Atividade_02122020.AssemblyInfoInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\Atividade_02122020\obj\Debug\netcoreapp3.1\Atividade_02122020.AssemblyInfo.cs
+C:\xampp\htdocs\programacao\c#\Console\Atividade_02122020\obj\Debug\netcoreapp3.1\Atividade_02122020.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\Atividade_02122020\obj\Debug\netcoreapp3.1\Atividade_02122020.dll
+C:\xampp\htdocs\programacao\c#\Console\Atividade_02122020\obj\Debug\netcoreapp3.1\Atividade_02122020.pdb
+C:\xampp\htdocs\programacao\c#\Console\Atividade_02122020\obj\Debug\netcoreapp3.1\Atividade_02122020.genruntimeconfig.cache
