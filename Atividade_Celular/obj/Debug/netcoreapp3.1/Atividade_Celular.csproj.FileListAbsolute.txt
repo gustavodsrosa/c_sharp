@@ -1,0 +1,4 @@
+C:\xampp\htdocs\programacao\c#\Console\Atividade_Celular\obj\Debug\netcoreapp3.1\Atividade_Celular.csprojAssemblyReference.cache
+C:\xampp\htdocs\programacao\c#\Console\Atividade_Celular\obj\Debug\netcoreapp3.1\Atividade_Celular.AssemblyInfoInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\Atividade_Celular\obj\Debug\netcoreapp3.1\Atividade_Celular.AssemblyInfo.cs
+C:\xampp\htdocs\programacao\c#\Console\Atividade_Celular\obj\Debug\netcoreapp3.1\Atividade_Celular.csproj.CoreCompileInputs.cache

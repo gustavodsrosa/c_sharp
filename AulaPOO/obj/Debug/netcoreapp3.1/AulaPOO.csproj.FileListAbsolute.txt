@@ -1,0 +1,13 @@
+C:\xampp\htdocs\programacao\c#\Console\AulaPOO\bin\Debug\netcoreapp3.1\AulaPOO.exe
+C:\xampp\htdocs\programacao\c#\Console\AulaPOO\bin\Debug\netcoreapp3.1\AulaPOO.deps.json
+C:\xampp\htdocs\programacao\c#\Console\AulaPOO\bin\Debug\netcoreapp3.1\AulaPOO.runtimeconfig.json
+C:\xampp\htdocs\programacao\c#\Console\AulaPOO\bin\Debug\netcoreapp3.1\AulaPOO.runtimeconfig.dev.json
+C:\xampp\htdocs\programacao\c#\Console\AulaPOO\bin\Debug\netcoreapp3.1\AulaPOO.dll
+C:\xampp\htdocs\programacao\c#\Console\AulaPOO\bin\Debug\netcoreapp3.1\AulaPOO.pdb
+C:\xampp\htdocs\programacao\c#\Console\AulaPOO\obj\Debug\netcoreapp3.1\AulaPOO.csprojAssemblyReference.cache
+C:\xampp\htdocs\programacao\c#\Console\AulaPOO\obj\Debug\netcoreapp3.1\AulaPOO.AssemblyInfoInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\AulaPOO\obj\Debug\netcoreapp3.1\AulaPOO.AssemblyInfo.cs
+C:\xampp\htdocs\programacao\c#\Console\AulaPOO\obj\Debug\netcoreapp3.1\AulaPOO.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\AulaPOO\obj\Debug\netcoreapp3.1\AulaPOO.dll
+C:\xampp\htdocs\programacao\c#\Console\AulaPOO\obj\Debug\netcoreapp3.1\AulaPOO.pdb
+C:\xampp\htdocs\programacao\c#\Console\AulaPOO\obj\Debug\netcoreapp3.1\AulaPOO.genruntimeconfig.cache
