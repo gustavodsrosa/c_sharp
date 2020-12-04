@@ -70,7 +70,7 @@ namespace AulaPOO
                     }
                     break;
                 case 0:
-                    Console.WriteLine("Obrigado!");
+                    Console.WriteLine("Obrigado! Volte depois...");
                     
                     break;
                 default:
