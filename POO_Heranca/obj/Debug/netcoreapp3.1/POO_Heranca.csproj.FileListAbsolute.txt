@@ -1,0 +1,13 @@
+C:\xampp\htdocs\programacao\c#\Console\POO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.csprojAssemblyReference.cache
+C:\xampp\htdocs\programacao\c#\Console\POO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.AssemblyInfoInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\POO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.AssemblyInfo.cs
+C:\xampp\htdocs\programacao\c#\Console\POO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\POO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.exe
+C:\xampp\htdocs\programacao\c#\Console\POO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.deps.json
+C:\xampp\htdocs\programacao\c#\Console\POO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.runtimeconfig.json
+C:\xampp\htdocs\programacao\c#\Console\POO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.runtimeconfig.dev.json
+C:\xampp\htdocs\programacao\c#\Console\POO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.dll
+C:\xampp\htdocs\programacao\c#\Console\POO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.pdb
+C:\xampp\htdocs\programacao\c#\Console\POO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.dll
+C:\xampp\htdocs\programacao\c#\Console\POO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.pdb
+C:\xampp\htdocs\programacao\c#\Console\POO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.genruntimeconfig.cache
