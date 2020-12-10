@@ -29,7 +29,7 @@ namespace POO_Abstracao
 
             credito.valores = 3212;
 
-            boleto.porcentagem = 12/100
+            boleto.porcentagem = 12/100;
         }
     }
 }
