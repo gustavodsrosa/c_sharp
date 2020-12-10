@@ -28,6 +28,8 @@ namespace POO_Abstracao
             credito.parcelas = 23;
 
             credito.valores = 3212;
+
+            boleto.porcentagem = 12/100
         }
     }
 }
