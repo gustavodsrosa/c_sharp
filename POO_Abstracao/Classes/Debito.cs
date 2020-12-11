@@ -2,6 +2,11 @@ namespace POO_Abstracao.Classes
 {
     public class Debito : Cartao
     {
-        public float limite = 600;
+        public float saldo = 600;
+        public override void Pagar()
+        {
+            throw new System.NotImplementedException();
+        }
     }
+        
 }

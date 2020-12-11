@@ -6,8 +6,16 @@ namespace POO_Abstracao.Classes
     {
         private DateTime data;
         protected float valor;
+        private bool status;
+        public float Valor{
+            get;set;
+        }
+        public DateTime Data{
+            get;set;
+        }
 
         public string Cancelar(){
+            this.status = false;
             return "";
         }
 

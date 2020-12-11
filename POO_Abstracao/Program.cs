@@ -7,29 +7,51 @@ namespace POO_Abstracao
     {
         static void Main(string[] args)
         {
-            Boleto boleto = new Boleto();
+            Console.WriteLine("Digite o valor da compra: ");
+            float valorDaCompra = float.Parse(Console.ReadLine());
 
-            Cartao cartao = new Cartao();
+            Console.WriteLine("Selecione um método de pagamento");
+            Console.WriteLine("1 - Boleto");
+            Console.WriteLine("2 - Cartão");
+            int opcao = int.Parse(Console.ReadLine());
 
-            Credito credito = new Credito();
+            switch (opcao)
+            {
+                case 1:
+                    Boleto boleto = new Boleto();
+                    boleto.Registrar();
+                    Console.WriteLine($"Código de Barras - {boleto.CodigoDeBarras}");
+                    boleto.Valor = valorDaCompra;
+                    boleto.Data = DateTime.Now;
 
-            Debito debito = new Debito();
+                    boleto.GerarBoleto();
+                    break;
+                case 2:
+                    Console.WriteLine("Selecione um método de pagamento");
+                    Console.WriteLine("1 - Crédito");
+                    Console.WriteLine("2 - Débito");
+                    int tipo = int.Parse(Console.ReadLine());
+                    switch(tipo) {
+                        case 1:
+                            Credito credito = new Credito();
+                            credito.valorFinal = 1221;
+                            credito.Gerar();
+                            break;
+                        case 2:
+                            Debito debito = new Debito();
+                            Console.WriteLine($"Valor Final: {debito.saldo}");
+                            break;
+                        default:
+                            Console.WriteLine("Opção inválida, tente novamente!!");
+                            break;
+                    }
+                    break;
+                default:
+                    Console.WriteLine("Opção inválida, tente novamente!!");
+                    break;
+            }
+            
 
-            boleto.valores = 2000;
-
-            boleto.parcelas = 3;
-
-            credito.bandeira = "Visa";
-
-            credito.cvv = "12212";
-
-            credito.limite = 2330;
-
-            credito.parcelas = 23;
-
-            credito.valores = 3212;
-
-            boleto.porcentagem = 12/100;
         }
     }
 }
