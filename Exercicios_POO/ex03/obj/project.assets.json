@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\programacao\\c#\\Console\\Exercicios_POO\\ex02\\ex02.csproj",
-      "projectName": "ex02",
-      "projectPath": "C:\\xampp\\htdocs\\programacao\\c#\\Console\\Exercicios_POO\\ex02\\ex02.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\programacao\\c#\\Console\\Exercicios_POO\\ex03\\ex03.csproj",
+      "projectName": "ex03",
+      "projectPath": "C:\\xampp\\htdocs\\programacao\\c#\\Console\\Exercicios_POO\\ex03\\ex03.csproj",
       "packagesPath": "C:\\Users\\gdsan\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\programacao\\c#\\Console\\Exercicios_POO\\ex02\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\programacao\\c#\\Console\\Exercicios_POO\\ex03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gdsan\\AppData\\Roaming\\NuGet\\NuGet.Config"

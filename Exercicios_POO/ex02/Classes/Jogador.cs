@@ -1,19 +1,20 @@
+using System;
 namespace ex02.Classes
 {
     public class Jogador
     {
         public string nome;
         public string posicao;
-        public DateTime data;
+        public int anoNasc;
         public string nacionalidade;
         public float altura;
         public float peso;
         public int anoAtual;
         public int Idade(){
-            return anoAtual - data;
+            return anoAtual - anoNasc;
         }
-        public int Aposentar(){
-            return 
+        public string Aposentar(){
+            return "";
         }
 
     }
