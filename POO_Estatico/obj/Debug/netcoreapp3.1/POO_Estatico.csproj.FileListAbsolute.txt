@@ -1,0 +1,13 @@
+C:\xampp\htdocs\programacao\c#\Console\POO_Estatico\bin\Debug\netcoreapp3.1\POO_Estatico.exe
+C:\xampp\htdocs\programacao\c#\Console\POO_Estatico\bin\Debug\netcoreapp3.1\POO_Estatico.deps.json
+C:\xampp\htdocs\programacao\c#\Console\POO_Estatico\bin\Debug\netcoreapp3.1\POO_Estatico.runtimeconfig.json
+C:\xampp\htdocs\programacao\c#\Console\POO_Estatico\bin\Debug\netcoreapp3.1\POO_Estatico.runtimeconfig.dev.json
+C:\xampp\htdocs\programacao\c#\Console\POO_Estatico\bin\Debug\netcoreapp3.1\POO_Estatico.dll
+C:\xampp\htdocs\programacao\c#\Console\POO_Estatico\bin\Debug\netcoreapp3.1\POO_Estatico.pdb
+C:\xampp\htdocs\programacao\c#\Console\POO_Estatico\obj\Debug\netcoreapp3.1\POO_Estatico.csprojAssemblyReference.cache
+C:\xampp\htdocs\programacao\c#\Console\POO_Estatico\obj\Debug\netcoreapp3.1\POO_Estatico.AssemblyInfoInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\POO_Estatico\obj\Debug\netcoreapp3.1\POO_Estatico.AssemblyInfo.cs
+C:\xampp\htdocs\programacao\c#\Console\POO_Estatico\obj\Debug\netcoreapp3.1\POO_Estatico.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\POO_Estatico\obj\Debug\netcoreapp3.1\POO_Estatico.dll
+C:\xampp\htdocs\programacao\c#\Console\POO_Estatico\obj\Debug\netcoreapp3.1\POO_Estatico.pdb
+C:\xampp\htdocs\programacao\c#\Console\POO_Estatico\obj\Debug\netcoreapp3.1\POO_Estatico.genruntimeconfig.cache
