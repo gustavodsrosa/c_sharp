@@ -1,0 +1,13 @@
+C:\xampp\htdocs\programacao\c#\Console\POO_Construtor\bin\Debug\netcoreapp3.1\POO_Construtor.exe
+C:\xampp\htdocs\programacao\c#\Console\POO_Construtor\bin\Debug\netcoreapp3.1\POO_Construtor.deps.json
+C:\xampp\htdocs\programacao\c#\Console\POO_Construtor\bin\Debug\netcoreapp3.1\POO_Construtor.runtimeconfig.json
+C:\xampp\htdocs\programacao\c#\Console\POO_Construtor\bin\Debug\netcoreapp3.1\POO_Construtor.runtimeconfig.dev.json
+C:\xampp\htdocs\programacao\c#\Console\POO_Construtor\bin\Debug\netcoreapp3.1\POO_Construtor.dll
+C:\xampp\htdocs\programacao\c#\Console\POO_Construtor\bin\Debug\netcoreapp3.1\POO_Construtor.pdb
+C:\xampp\htdocs\programacao\c#\Console\POO_Construtor\obj\Debug\netcoreapp3.1\POO_Construtor.csprojAssemblyReference.cache
+C:\xampp\htdocs\programacao\c#\Console\POO_Construtor\obj\Debug\netcoreapp3.1\POO_Construtor.AssemblyInfoInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\POO_Construtor\obj\Debug\netcoreapp3.1\POO_Construtor.AssemblyInfo.cs
+C:\xampp\htdocs\programacao\c#\Console\POO_Construtor\obj\Debug\netcoreapp3.1\POO_Construtor.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\POO_Construtor\obj\Debug\netcoreapp3.1\POO_Construtor.dll
+C:\xampp\htdocs\programacao\c#\Console\POO_Construtor\obj\Debug\netcoreapp3.1\POO_Construtor.pdb
+C:\xampp\htdocs\programacao\c#\Console\POO_Construtor\obj\Debug\netcoreapp3.1\POO_Construtor.genruntimeconfig.cache
