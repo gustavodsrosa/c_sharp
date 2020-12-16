@@ -1,0 +1,13 @@
+C:\xampp\htdocs\programacao\c#\Console\POO_Listas\bin\Debug\netcoreapp3.1\POO_Listas.exe
+C:\xampp\htdocs\programacao\c#\Console\POO_Listas\bin\Debug\netcoreapp3.1\POO_Listas.deps.json
+C:\xampp\htdocs\programacao\c#\Console\POO_Listas\bin\Debug\netcoreapp3.1\POO_Listas.runtimeconfig.json
+C:\xampp\htdocs\programacao\c#\Console\POO_Listas\bin\Debug\netcoreapp3.1\POO_Listas.runtimeconfig.dev.json
+C:\xampp\htdocs\programacao\c#\Console\POO_Listas\bin\Debug\netcoreapp3.1\POO_Listas.dll
+C:\xampp\htdocs\programacao\c#\Console\POO_Listas\bin\Debug\netcoreapp3.1\POO_Listas.pdb
+C:\xampp\htdocs\programacao\c#\Console\POO_Listas\obj\Debug\netcoreapp3.1\POO_Listas.csprojAssemblyReference.cache
+C:\xampp\htdocs\programacao\c#\Console\POO_Listas\obj\Debug\netcoreapp3.1\POO_Listas.AssemblyInfoInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\POO_Listas\obj\Debug\netcoreapp3.1\POO_Listas.AssemblyInfo.cs
+C:\xampp\htdocs\programacao\c#\Console\POO_Listas\obj\Debug\netcoreapp3.1\POO_Listas.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\POO_Listas\obj\Debug\netcoreapp3.1\POO_Listas.dll
+C:\xampp\htdocs\programacao\c#\Console\POO_Listas\obj\Debug\netcoreapp3.1\POO_Listas.pdb
+C:\xampp\htdocs\programacao\c#\Console\POO_Listas\obj\Debug\netcoreapp3.1\POO_Listas.genruntimeconfig.cache
