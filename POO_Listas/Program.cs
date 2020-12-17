@@ -52,10 +52,15 @@ namespace POO_Listas
             cartao.Add(c);
 
             foreach(Cartao item in cartao) {
+                Console.WriteLine();
                 Console.WriteLine("Titular: " + item.Titular);
+                Console.WriteLine();
                 Console.WriteLine("Número: " + item.Numero);
+                Console.WriteLine();
                 Console.WriteLine("Bandeira: " + item.Bandeira);
+                Console.WriteLine();
                 Console.WriteLine("Data de vencimento: " + item.Vencimento);
+                Console.WriteLine();
                 Console.WriteLine("CVV: " + item.Cvv);
             }
 
