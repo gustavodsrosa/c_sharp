@@ -29,7 +29,6 @@ namespace POO_Listas
                 Console.WriteLine(item.Nome);
             }
 
-            Console.Clear();
             Console.WriteLine("Lista de Cartão");
 
             List<Cartao> cartao= new List<Cartao>();
