@@ -19,6 +19,5 @@ namespace POO_ObjetoArgumento
             cart.AdicionarProduto(p4);
 
             cart.MostrarProduto();
-        }
     }
 }
