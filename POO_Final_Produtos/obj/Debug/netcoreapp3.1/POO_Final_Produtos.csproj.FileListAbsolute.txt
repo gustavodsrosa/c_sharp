@@ -1,0 +1,13 @@
+C:\xampp\htdocs\programacao\c#\Console\POO_Final_Produtos\bin\Debug\netcoreapp3.1\POO_Final_Produtos.exe
+C:\xampp\htdocs\programacao\c#\Console\POO_Final_Produtos\bin\Debug\netcoreapp3.1\POO_Final_Produtos.deps.json
+C:\xampp\htdocs\programacao\c#\Console\POO_Final_Produtos\bin\Debug\netcoreapp3.1\POO_Final_Produtos.runtimeconfig.json
+C:\xampp\htdocs\programacao\c#\Console\POO_Final_Produtos\bin\Debug\netcoreapp3.1\POO_Final_Produtos.runtimeconfig.dev.json
+C:\xampp\htdocs\programacao\c#\Console\POO_Final_Produtos\bin\Debug\netcoreapp3.1\POO_Final_Produtos.dll
+C:\xampp\htdocs\programacao\c#\Console\POO_Final_Produtos\bin\Debug\netcoreapp3.1\POO_Final_Produtos.pdb
+C:\xampp\htdocs\programacao\c#\Console\POO_Final_Produtos\obj\Debug\netcoreapp3.1\POO_Final_Produtos.csprojAssemblyReference.cache
+C:\xampp\htdocs\programacao\c#\Console\POO_Final_Produtos\obj\Debug\netcoreapp3.1\POO_Final_Produtos.AssemblyInfoInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\POO_Final_Produtos\obj\Debug\netcoreapp3.1\POO_Final_Produtos.AssemblyInfo.cs
+C:\xampp\htdocs\programacao\c#\Console\POO_Final_Produtos\obj\Debug\netcoreapp3.1\POO_Final_Produtos.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\programacao\c#\Console\POO_Final_Produtos\obj\Debug\netcoreapp3.1\POO_Final_Produtos.dll
+C:\xampp\htdocs\programacao\c#\Console\POO_Final_Produtos\obj\Debug\netcoreapp3.1\POO_Final_Produtos.pdb
+C:\xampp\htdocs\programacao\c#\Console\POO_Final_Produtos\obj\Debug\netcoreapp3.1\POO_Final_Produtos.genruntimeconfig.cache
